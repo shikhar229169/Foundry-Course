@@ -1,7 +1,6 @@
 # Simple-Storage-Foundry
-This repository contains all the blockchain projects written in Foundry framework.
 
-It demonstarted the simple storage in foundry framework
+This repository demonstartes the simple storage in foundry framework
 
 To deploy the contract:
 ```
